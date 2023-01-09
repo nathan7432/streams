@@ -1,4 +1,4 @@
 node_modules
 package-lock.json
-product.csv
-product50.csv
+product.json
+*.csv

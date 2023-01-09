@@ -3,3 +3,5 @@ module.exports.sometimes = (message, probability) => {
     console.log(message);
   }
 }
+
+// console.sometimes = require('./sometimes').sometimes

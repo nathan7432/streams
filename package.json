@@ -3,6 +3,7 @@
     "demo1": "node --max-old-space-size=250 demo1.js"
   },
   "dependencies": {
-    "cli-progress": "^3.11.2"
+    "cli-progress": "^3.11.2",
+    "csvtojson": "^2.0.10"
   }
 }
