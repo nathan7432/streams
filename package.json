@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "demo1": "node --max-old-space-size=250 index.js"
+  },
+  "dependencies": {
+    "cli-progress": "^3.11.2"
+  }
+}
